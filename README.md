@@ -1,6 +1,5 @@
-## Hi 👋 Nice to see you.
+## 👋 Nice to see you.
 
-Welcome to my profile!
 I'm a frontend developer based in Oporto, Portugal 🇵🇹
 
 - 🔭 Currently working on my React skills and improving my [website](https://www.cstrecht.com/)
